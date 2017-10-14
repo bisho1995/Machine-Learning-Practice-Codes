@@ -1,0 +1,117 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Oct 14 10:12:36 2017
+
+@author: user
+"""
+
+Executing r = 1
+H:\Users\user\Desktop\WinPython-64bit-3.5.4.0Qt5\python-3.5.4.amd64\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:904: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+got a better ar [2] with error 11 and global error 11
+got a better ar [50] with error 9 and global error 9
+--- 1.4290153980255127 seconds of case 1 ---
+Executing r = 2
+--- 11.849413394927979 seconds of case 2 ---
+Executing r = 3
+got a better ar [3, 8, 50] with error 8 and global error 8
+got a better ar [9, 18, 50] with error 7 and global error 7
+got a better ar [11, 18, 50] with error 6 and global error 6
+--- 63.28994393348694 seconds of case 3 ---
+Executing r = 4
+got a better ar [2, 9, 18, 50] with error 4 and global error 4
+--- 192.19406604766846 seconds of case 4 ---
+Executing r = 5
+--- 314.1628062725067 seconds of case 5 ---
+Executing r = 6
+--- 585.0285880565643 seconds of case 6 ---
+Executing r = 7
+--- 585.9602200984955 seconds of case 7 ---
+Executing r = 8
+--- 445.4830639362335 seconds of case 8 ---
+Executing r = 9
+--- 180.89501929283142 seconds of case 9 ---
+Executing r = 10
+--- 94.50010585784912 seconds of case 10 ---
+Executing r = 11
+
+
+
+
+
+ =================  Starting program  =============
+There is going to be 13 iterations
+Executing iteration 1/13 please wait
+H:\Users\user\Desktop\WinPython-64bit-3.5.4.0Qt5\python-3.5.4.amd64\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:904: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+got a better ar [0] with error 27 
+got a better ar [1] with error 26 
+got a better ar [8] with error 25 
+got a better ar [9] with error 24 
+got a better ar [12] with error 22 
+--- 17.173195600509644 seconds of case 1 ---
+Executing iteration 2/13 please wait
+got a better ar [1, 9] with error 19 
+got a better ar [9, 10] with error 18 
+got a better ar [9, 11] with error 17 
+--- 264.18576097488403 seconds of case 2 ---
+Executing iteration 3/13 please wait
+got a better ar [1, 9, 11] with error 15 
+got a better ar [6, 9, 11] with error 13 
+--- 758.4065866470337 seconds of case 3 ---
+Executing iteration 4/13 please wait
+got a better ar [1, 5, 9, 11] with error 11 
+got a better ar [1, 6, 9, 11] with error 10 
+--- 1578.6156086921692 seconds of case 4 ---
+Executing iteration 5/13 please wait
+got a better ar [1, 2, 6, 9, 11] with error 9 
+got a better ar [1, 6, 8, 9, 11] with error 6 
+--- 2861.2087943553925 seconds of case 5 ---
+Executing iteration 6/13 please wait
+[1, 6, 8, 9, 11] with max error 6
+--- 7275.3639523983 seconds ---
+ =================  Stopping program  =============
+
+KeyboardInterrupt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================  Starting program  =============
+There is going to be 13 iterations
+Executing iteration 6/13 please wait
+H:\Users\user\Desktop\WinPython-64bit-3.5.4.0Qt5\python-3.5.4.amd64\lib\site-packages\sklearn\neural_network\multilayer_perceptron.py:904: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+got a better ar [0, 1, 2, 3, 4, 5] with error 35 
+got a better ar [0, 1, 2, 3, 4, 6] with error 27 
+got a better ar [0, 1, 2, 3, 4, 7] with error 26 
+got a better ar [0, 1, 2, 3, 5, 6] with error 25 
+got a better ar [0, 1, 2, 3, 5, 8] with error 24 
+got a better ar [0, 1, 2, 3, 5, 9] with error 23 
+got a better ar [0, 1, 2, 3, 5, 12] with error 22 
+got a better ar [0, 1, 2, 3, 11, 12] with error 21 
+got a better ar [0, 1, 2, 4, 7, 12] with error 19 
+got a better ar [0, 1, 5, 9, 10, 11] with error 18 
+got a better ar [1, 2, 5, 6, 8, 9] with error 7 
+got a better ar [1, 2, 6, 9, 10, 11] with error 4 
+--- 2738.7288105487823 seconds of case 6 ---
+Executing iteration 7/13 please wait
+--- 6212.933277606964 seconds of case 7 ---
+Executing iteration 8/13 please wait
+got a better ar [1, 2, 5, 6, 8, 9, 10, 11] with error 3 

@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Oct 14 14:24:53 2017
+
+@author: Bisvarup Mukherjee
+"""
+
+https://github.com/mbbrigitte/Predicting_heart_disease_UCI/blob/master/heartdisease_UCI.md
+https://rpubs.com/mbbrigitte/HeartDisease
+http://archive.ics.uci.edu/ml/datasets/heart+Disease
+http://rstudio-pubs-static.s3.amazonaws.com/24341_184a58191486470cab97acdbbfe78ed5.html
+https://rpubs.com/mbbrigitte/HeartDisease
